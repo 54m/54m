@@ -3,14 +3,14 @@
 - Software Engineer  
   + Web
   + Cloud
-    * GCP
-    * AWS(just a little)
+    * [GCP](https://cloud.google.com/docs/overview)
+    * [AWS](https://aws.amazon.com/what-is-aws) (just a little)
 - OSS Owner
     * [@gcp-kit](https://github.com/gcp-kit)
     * [@go-utils](https://github.com/go-utils)
     * [@go-generalize](https://github.com/go-generalize)
 - OSS Contributor
-    * LINE, SkyWay, etc.
+    * [LINE](https://line.me/en), [SkyWay](https://webrtc.ecl.ntt.com/en/skyway/overview), etc.
 - Service
     * [Lilly (LineBot)](https://lin.ee/mJCXZvo)
 ## Skill
@@ -21,7 +21,7 @@
     * C++
     * C#
     * Dart(Flutter)
-    * V
+    * [V](https://vlang.io/)
 - Service
   + GoogleCloudPlatform(GCP)
     * App Engine(GAE)
