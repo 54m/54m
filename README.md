@@ -42,3 +42,23 @@
     * DynamoDB
   + GithubActions
   + Docker/Nginx/CloudFlare
+## Other
+- Device
+  + iMacPro
+  + MacBookPro
+  + SurfacePro
+- OS
+  + macOS
+  + Ubuntu
+  + ArchLinux
+  + Windows
+- Tools
+  + IDE
+    * JetBrainsIDE(GoLand / PyCharm / CLion / WebStorm / AndroidStudio)
+    * VSCode
+    * VisualStudio
+  + Slack
+  + Backlog
+  + Confluence
+  + SourceTrail
+  + SourceTree
