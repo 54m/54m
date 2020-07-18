@@ -41,6 +41,17 @@
     * DynamoDB
   + GithubActions
   + Docker/Nginx/CloudFlare
+- Database
+  + NoSQL
+    * Cloud Firestore
+    * Cloud Datastore
+    * DynamoDB
+  + RDB
+    * MariaDB
+    * MySQL
+    * PostgreSQL
+    * Redis
+    * SQLite
 ## Other
 - Device
   + iMacPro
