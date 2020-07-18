@@ -14,3 +14,31 @@
     * LINE, SkyWay, etc.
 - Service
     * [Lilly (LineBot)](https://lin.ee/mJCXZvo)
+## Skill
+- Programing Language
+  + Go
+  + Python3.6~
+  + non business
+    * C++
+    * C#
+    * Dart(Flutter)
+    * V
+- Service
+  + GoogleCloudPlatform(GCP)
+    * App Engine(GAE)
+    * Cloud Functions(GCF)
+    * Cloud Firestore
+    * Cloud Datastore
+    * Cloud Storage(GCS)
+    * Cloud Pub/Sub
+    * Cloud KMS
+    * Cloud Build
+    * Cloud Tasks
+    * Stack Driver Logging
+    * Memorystore(Redis)
+    * other
+      + BigQuery/IAM/VPC/SecretManager/etc.
+  + AmazonWebService
+    * DynamoDB
+  + GithubActions
+  + Docker/Nginx/CloudFlare
