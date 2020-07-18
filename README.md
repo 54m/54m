@@ -7,9 +7,9 @@
     * GCP
     * AWS(just a little)
 - OSS Owner
-    * @gcp-kit
-    * @go-utils
-    * @go-generalize
+    * [@gcp-kit](https://github.com/gcp-kit)
+    * [@go-utils](https://github.com/go-utils)
+    * [@go-generalize](https://github.com/go-generalize)
 - OSS Contributor
     * LINE, SkyWay, etc.
 - Service
