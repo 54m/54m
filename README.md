@@ -39,6 +39,7 @@
       + BigQuery/IAM/VPC/SecretManager/etc.
   + AmazonWebService
     * DynamoDB
+  + FireBase
   + GithubActions
   + Docker/Nginx/CloudFlare
 - Database
