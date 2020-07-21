@@ -18,10 +18,7 @@
   + ***Go***
   + Python3.6~
   + non business
-    * C++
-    * C#
-    * Dart(Flutter)
-    * [V](https://vlang.io/)
+    * C++, C#, Dart(Flutter), [V](https://vlang.io/)
 - ***Service***
   + GoogleCloudPlatform(GCP)
     * ***App Engine***(GAE)
@@ -44,32 +41,16 @@
   + Docker/Nginx/CloudFlare
 - ***Database***
   + NoSQL
-    * ***Cloud Firestore***
-    * **Cloud Datastore**
-    * DynamoDB
+    * ***Cloud Firestore***, **Cloud Datastore**, DynamoDB
   + RDB
-    * *MariaDB*
-    * MySQL
-    * **PostgreSQL**
-    * ***Redis***
-    * SQLite
+    * *MariaDB*, MySQL, **PostgreSQL**, ***Redis***, SQLite
 ## Other
 - ***Device***
-  + ***iMacPro***
-  + **MacBookPro**
-  + SurfacePro
+  + ***iMacPro***, **MacBookPro**, SurfacePro
 - ***OS***
-  + ***macOS***
-  + **Ubuntu**
-  + ArchLinux
-  + Windows
+  + ***macOS***, **Ubuntu**, ArchLinux, Windows
 - ***Tools***
   + ***IDE***
     * JetBrains*IDE*(***GoLand*** / ***PyCharm*** / CLion / WebStorm / AndroidStudio)
-    * *VSCode*
-    * VisualStudio
-  + **Slack**
-  + *Backlog*
-  + *Confluence*
-  + *SourceTrail*
-  + *SourceTree*
+    * *VSCode*, VisualStudio
+  + **Slack**, *Backlog*, *Confluence*, *SourceTrail*, *SourceTree*
