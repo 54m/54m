@@ -1,5 +1,5 @@
 ![top](https://camo.githubusercontent.com/1ccbd1730028ef90129ba5c2aed7797a6f2da418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f35346d2d73656c66253230696e74726f64756374696f6e253230706167652d626c7565)  
-<details><summary>About</summary>
+<details><summary>About (tap to here)</summary>
 
 - ***Software Engineer***
   + Web
@@ -17,7 +17,7 @@
 
 </details>
 
-<details><summary>Skills</summary>
+<details><summary>Skills (tap to here)</summary>
 
   - ***Programing Language***
     + ***Go***
@@ -58,7 +58,7 @@
 
 </details>
 
-<details><summary>Other</summary>
+<details><summary>Other  (tap to here)</summary>
 
   - ***Device***
     + ***iMacPro***, **MacBookPro**, SurfacePro
@@ -72,4 +72,5 @@
 
 </details>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=54m&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=54m&layout=compact&theme=dark)  
+![](https://github-readme-stats.vercel.app/api?username=54m&show_icons=true&theme=dark&count_private=true)  
