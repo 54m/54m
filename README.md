@@ -23,7 +23,7 @@
     + ***Go***
     + Python3.6~
     + non business
-      * C++, C#, Dart(Flutter), [V](https://vlang.io/)  
+      * C++, C#, Dart(Flutter), [V](https://vlang.io)  
 
   - ***Service***
     + <details><summary>GoogleCloudPlatform(GCP)</summary>
