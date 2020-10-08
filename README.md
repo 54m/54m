@@ -72,5 +72,6 @@
 
 </details>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=54m&layout=compact&theme=dark)  
-![](https://github-readme-stats.vercel.app/api?username=54m&show_icons=true&theme=dark&count_private=true)  
+|Activity|Most Used Languages|
+|:---:|:---:|
+|![](https://github-readme-stats.vercel.app/api?username=54m&show_icons=true&theme=dark&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=54m&layout=compact&theme=dark)|
