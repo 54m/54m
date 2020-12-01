@@ -33,6 +33,7 @@
       * ***Cloud Firestore***
       * **Cloud Datastore**
       * **Cloud Storage**(GCS)
+      * **Cloud Scheduler**
       * **Cloud Pub/Sub**
       * Cloud KMS
       * ***Cloud Build***
