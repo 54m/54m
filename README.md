@@ -48,6 +48,8 @@
     + AmazonWebService
       * DynamoDB
     + *Firebase*
+    + *Elasticsearch*
+    + Algolia
     + ***GithubActions***
     + Docker/Nginx/CloudFlare
 
