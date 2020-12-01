@@ -64,7 +64,7 @@
 <details><summary>Other  (tap to here)</summary>
 
   - ***Device***
-    + ***iMacPro***, **MacBookPro**, SurfacePro
+    + ***iMacPro***, **MacBookPro**, *Mac mini(M1)*, SurfacePro
   - ***OS***
     + ***macOS***, **Ubuntu**, ArchLinux, Windows
   - ***Tools***
