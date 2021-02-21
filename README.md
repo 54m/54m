@@ -13,7 +13,7 @@
     * [@go-utils](https://github.com/go-utils)
     * [@go-generalize](https://github.com/go-generalize)
 - ***OSS Contributor***
-    * [LINE](https://line.me/en), [SkyWay](https://webrtc.ecl.ntt.com/en/skyway/overview), etc.
+    * [Google Cloud](https://github.com/googleapis/google-cloud-go), [LINE](https://line.me/en), [SkyWay](https://webrtc.ecl.ntt.com/en/skyway/overview), etc.
 - *Service*
     * [Lilly (LineBot)](https://lin.ee/mJCXZvo)
 
