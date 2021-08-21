@@ -57,9 +57,9 @@
 
   - ***Database***
     + NoSQL
-      * ***Cloud Firestore***, **Cloud Datastore**, DynamoDB
+      * ***Cloud Firestore***, **Cloud Datastore**, DynamoDB, ***Redis***
     + RDB
-      * *MariaDB*, MySQL, **PostgreSQL**, ***Redis***, SQLite
+      * *MariaDB*, MySQL, **PostgreSQL**, SQLite
     + GraphDB
       * ***Neo4j***
 
