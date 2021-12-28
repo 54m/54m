@@ -65,6 +65,12 @@
 
 </details>
 
+<details><summary>Strongest architecture (tap to here)</summary>
+
+  ![architecture](https://user-images.githubusercontent.com/30588003/147550892-67c6223b-aa1f-4af8-9dfc-54e77905cfb5.png)
+
+</details>
+
 <details><summary>Other  (tap to here)</summary>
 
   - ***Device***
